@@ -44,5 +44,5 @@ Opportunities where I can **build, optimize, and ship** — whether it’s **AI 
 
 ---
 
-📫 **Reach me on LinkedIn:** *[Add your link]*  
+📫 **Reach me on LinkedIn:** *https://www.linkedin.com/in/paramhans-mishra-751182350/*  
 ⭐ **Check out my projects below!**
