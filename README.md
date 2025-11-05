@@ -21,10 +21,10 @@ Currently mixing **Deep Learning + Backend Engineering** to create end-to-end re
 
 ## 🛠 Tech Arsenal
 
-**Languages:** Python, C++, SQL,  
-**ML/DL:** TensorFlow, Keras, CNNs, RNNs, LSTMs, Pytorch,  
-**Backend & Systems:** SQL, REST APIs, FAST APIs, System Design Concepts,  
-**Tools:** Git, Linux, OpenCV, OCR, NumPy, Pandas, Matplotlib, Seaborne, Tableau,
+**Languages:** Python, C++, JAVA, SQL,  
+**ML/DL:** TensorFlow, PyTorch, Keras, CNNs, RNNs, LSTMs, Pytorch,  
+**Backend & Systems:** SQL, REST APIs, FAST APIs, System Design Concepts, Network Programing, ASYNCIO,  
+**Tools:** Git, Linux, OpenCV, OCR, NumPy, Pandas, Matplotlib, Seaborne, Tableau, PowerBI
 
 ---
 
