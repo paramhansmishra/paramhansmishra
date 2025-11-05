@@ -10,11 +10,11 @@ Currently mixing **Deep Learning + Backend Engineering** to create end-to-end re
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| 🎮 **Terminal-Based Game (Dino Runner)** | Infinite runner game inside terminal | C++ (Planning / Building) |
+| 🎮 **Network-Based Chatbot (with LLM fallback)** | Client sends query to server resolved by a RAG bot | Python |
 | 🍫 **Food Ingredient Scanner (AI-powered Foodpharmer)** | CNN reads ingredient labels from edible products and detects harmful additives | Python, TensorFlow, OCR, Keras |
 | 🧠 **Real-time Face Recognition System** | Built using CNNs with Keras + OpenCV | Python, CNN, OpenCV |
 | 🎯 **Customer Churn Prediction from Scratch** | ANN model trained on telecom dataset to predict churn | Python, TensorFlow |
-| 🧮 **Terminal-based Games & Tools** | Built small utilities like Alarm Clock and Tic Tac Toe in Python | Python |
+| 🧮 **User friendly SLL** | Visualize Singly linkedlist using User inputs  | C++ & Python  |
 | ⚙️ **Memory Allocation Stress Tester (C++)** | Built a program to test heap allocation limits & OS behavior | C++ |
 
 ---
